@@ -1,7 +1,4 @@
-Eerste kop | Tweede kop
---- | ---
-Inhoudsel | Inhoudsel
-Inhoudsel | Inhoudsel
+
 
 Eerste kop | Tweede kop
 --- | ---
