@@ -1,7 +1,3 @@
-Primeiro cabeçalho | Second Header
---- | ---
-Célula de Conteúdo | Célula de Conteúdo
-Célula de Conteúdo | Célula de Conteúdo
 
 Primeiro cabeçalho | Second Header
 --- | ---
