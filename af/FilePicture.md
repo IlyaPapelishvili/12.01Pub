@@ -1,10 +1,5 @@
 
 
-Eerste kop | Tweede kop
---- | ---
-Inhoudsel | Inhoudsel
-Inhoudsel | Inhoudsel
-
 ![Citadel](https://vignette.wikia.nocookie.net/masseffect/images/d/d7/MassEffect2Citadel.jpg/revision/latest?cb=20100721191415)
 
 Links gerig | Sentrum gerig | Regs gerig
